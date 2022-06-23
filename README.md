@@ -8,3 +8,12 @@
 #### Aditionally, a travel route among the four cities woudl be created with a marker layer map by using Google Maps Directions API. 
 
 ---
+
+## Results:
+
+![Dataframe_1](https://github.com/Connectime4ever/World_Weather_Analysis/blob/main/Dataframe_1.png)
+
+![Dataframe_2](https://github.com/Connectime4ever/World_Weather_Analysis/blob/main/Dataframe_2.png)
+
+
+![WeatherPy_vacation_map](https://github.com/Connectime4ever/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png.png)
