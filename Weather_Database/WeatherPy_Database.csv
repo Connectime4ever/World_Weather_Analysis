@@ -1,4 +1,4 @@
-City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
 0,Arraial Do Cabo,BR,-22.9661,-42.0278,67.86,94,0,2.3,clear sky
 1,College,US,64.8569,-147.8028,60.78,60,75,4.61,smoke
 2,Seoul,KR,37.5683,126.9778,76.39,94,100,14.97,heavy intensity rain
