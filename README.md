@@ -20,3 +20,6 @@
 
 ![Fourdataframes](https://github.com/Connectime4ever/World_Weather_Analysis/blob/main/Fourdataframes.png)
 
+![four_cities_direction_layer_map](https://github.com/Connectime4ever/World_Weather_Analysis/blob/main/four%20cities%20direction%20layer%20map.png)
+
+![four_cities_marker_layer_with_popup_marker](https://github.com/Connectime4ever/World_Weather_Analysis/blob/main/four%20cities%20marker%20layer%20with%20popup%20marker.png)
